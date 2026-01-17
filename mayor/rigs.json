@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rigs": {
+    "guy": {
+      "git_url": "/home/mike/guy",
+      "added_at": "2026-01-17T15:34:05.833781379+11:00",
+      "beads": {
+        "repo": "",
+        "prefix": "guy"
+      }
+    }
+  }
+}

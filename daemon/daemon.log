@@ -1,0 +1,52 @@
+2026/01/17 15:33:18 Daemon starting (PID 36533)
+2026/01/17 15:33:18 Daemon running, recovery heartbeat interval 3m0s
+2026/01/17 15:33:18 Feed curator started
+2026/01/17 15:33:18 Convoy watcher started
+2026/01/17 15:33:18 Heartbeat starting (recovery-focused)
+2026/01/17 15:33:18 Spawning Boot for triage...
+2026/01/17 15:33:18 Boot spawned successfully
+2026/01/17 15:33:21 Heartbeat complete (#1)
+2026/01/17 15:36:18 Heartbeat starting (recovery-focused)
+2026/01/17 15:36:18 Boot already running, skipping spawn
+2026/01/17 15:36:18 Warning: no wisp config for guy - parked state may have been lost
+2026/01/17 15:36:23 Witness session for guy started successfully
+2026/01/17 15:36:23 Warning: no wisp config for guy - parked state may have been lost
+2026/01/17 15:37:37 Refinery session for guy started successfully
+2026/01/17 15:37:40 Heartbeat complete (#2)
+2026/01/17 15:40:40 Heartbeat starting (recovery-focused)
+2026/01/17 15:40:40 Boot already running, skipping spawn
+2026/01/17 15:40:40 Warning: no wisp config for guy - parked state may have been lost
+2026/01/17 15:40:40 Witness for guy already running, skipping spawn
+2026/01/17 15:40:40 Warning: no wisp config for guy - parked state may have been lost
+2026/01/17 15:40:40 Refinery for guy already running, skipping spawn
+2026/01/17 15:40:42 Heartbeat complete (#3)
+2026/01/17 15:43:42 Heartbeat starting (recovery-focused)
+2026/01/17 15:43:42 Boot already running, skipping spawn
+2026/01/17 15:43:42 Warning: no wisp config for guy - parked state may have been lost
+2026/01/17 15:43:42 Witness for guy already running, skipping spawn
+2026/01/17 15:43:42 Warning: no wisp config for guy - parked state may have been lost
+2026/01/17 15:43:42 Refinery for guy already running, skipping spawn
+2026/01/17 15:43:45 Heartbeat complete (#4)
+2026/01/17 15:46:45 Heartbeat starting (recovery-focused)
+2026/01/17 15:46:45 Boot already running, skipping spawn
+2026/01/17 15:46:45 Warning: no wisp config for guy - parked state may have been lost
+2026/01/17 15:46:45 Witness for guy already running, skipping spawn
+2026/01/17 15:46:45 Warning: no wisp config for guy - parked state may have been lost
+2026/01/17 15:46:45 Refinery for guy already running, skipping spawn
+2026/01/17 15:46:47 Heartbeat complete (#5)
+2026/01/17 15:49:47 Heartbeat starting (recovery-focused)
+2026/01/17 15:49:47 Boot already running, skipping spawn
+2026/01/17 15:49:47 Warning: no wisp config for guy - parked state may have been lost
+2026/01/17 15:49:47 Witness for guy already running, skipping spawn
+2026/01/17 15:49:47 Warning: no wisp config for guy - parked state may have been lost
+2026/01/17 15:49:47 Refinery for guy already running, skipping spawn
+2026/01/17 15:49:49 Orphan cleanup: processed 1 process(es)
+2026/01/17 15:49:49   Sent SIGTERM to PID 42428 (claude)
+2026/01/17 15:49:49 Heartbeat complete (#6)
+2026/01/17 15:52:49 Heartbeat starting (recovery-focused)
+2026/01/17 15:52:49 Boot already running, skipping spawn
+2026/01/17 15:52:49 Warning: no wisp config for guy - parked state may have been lost
+2026/01/17 15:52:49 Witness for guy already running, skipping spawn
+2026/01/17 15:52:49 Warning: no wisp config for guy - parked state may have been lost
+2026/01/17 15:52:49 Refinery for guy already running, skipping spawn
+2026/01/17 15:52:52 Heartbeat complete (#7)

@@ -1,0 +1,7 @@
+{"ts":"2026-01-17T04:33:19Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-37066","cwd":"/home/mike/gastown-hq/deacon","role":"deacon","session_id":"deacon-37066","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-01-17T04:33:23Z","source":"gt","type":"boot","actor":"gt","payload":{"agents":["daemon","deacon","mayor"],"rig":"town"},"visibility":"feed"}
+{"ts":"2026-01-17T04:33:24Z","source":"gt","type":"nudge","actor":"deacon","payload":{"reason":"[from deacon] session-started","rig":"","target":"deacon"},"visibility":"feed"}
+{"ts":"2026-01-17T04:36:19Z","source":"gt","type":"session_start","actor":"guy/witness","payload":{"actor_pid":"guy/witness-42558","cwd":"/home/mike/gastown-hq/guy/witness","role":"guy/witness","session_id":"guy/witness-42558","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-01-17T04:49:25Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"rust","rig":"guy"},"visibility":"feed"}
+{"ts":"2026-01-17T04:49:26Z","source":"gt","type":"session_start","actor":"guy/witness","payload":{"actor_pid":"guy/witness-57862","cwd":"/home/mike/gastown-hq/guy/witness","role":"guy/witness","session_id":"guy/witness-57862","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-01-17T04:49:32Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"guy-evz","target":"guy/polecats/rust"},"visibility":"feed"}
